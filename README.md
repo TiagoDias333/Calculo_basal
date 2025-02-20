@@ -1,2 +1,2 @@
-# C-lcuclo-basal
+# Cálculo-basal
 Calculadora de metabolismo em python
